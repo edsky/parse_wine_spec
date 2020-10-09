@@ -1,0 +1,12 @@
+[package]
+name = "parse_api"
+version = "0.1.0"
+authors = ["Changping Yu <dead.ash@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+goblin = "0.2"
+scroll = "0.10"
+toml = "0.5"
